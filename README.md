@@ -264,8 +264,8 @@ This project is created for educational purposes as part of ICT Engineering stud
 
 ## Contact 📧
 
-**Developer**: Ahmed  
-**Role**: ICT Engineering Student  
+**Developer**: AH.IS  
+**Role**: Engineering Student  
 **Project**: Theme Box IoT Controller
 
 ---
