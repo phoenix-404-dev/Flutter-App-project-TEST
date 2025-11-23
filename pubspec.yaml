@@ -1,0 +1,36 @@
+name: theme_box_controller
+description: A mobile app to control the Theme Box ESP8266 IoT device
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # HTTP networking
+  http: ^1.1.0
+  
+  # Local storage
+  shared_preferences: ^2.2.2
+  
+  # State management
+  provider: ^6.1.1
+  
+  # UI components
+  cupertino_icons: ^1.0.2
+  google_fonts: ^6.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  
+  # Uncomment to add assets
+  # assets:
+  #   - assets/icons/
